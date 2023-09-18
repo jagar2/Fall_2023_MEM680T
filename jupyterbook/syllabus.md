@@ -7,7 +7,7 @@
 *Name:* Joshua C. Agar
 *Office:* Curtis 262
 *Email:* [jca92@drexel.edu](mailto:jca92@drexel.edu)
-*Office Hours:* XXX
+*Office Hours:* Tuesday 10:30-11:30 am
 
 ---
 
@@ -256,24 +256,24 @@ Assignments are sequential and designed to build upon each other, hence late sub
 
 ## Drexel University Attendance Policy
 
-### **Excused Absences due to University Sponsored Activities**
+### Excused Absences due to University Sponsored Activities
 
 Many students participate in University-sponsored activities in which they represent the University or their academic college or department. Such activities may cause a student to be absent from class. In those instances, such absences qualify as "excused absences" which means that the absence, with proper prior arrangement, is not subject to penalty. Any missed coursework should be satisfied through agreement between the instructor and the student. Some examples of events that may qualify for excused absence include athletic competition, research or a presentation in which the student is an integral member of the presenting team, musical or performing arts events. To determine if an event qualifies as an excused absence, students are encouraged to discuss the activity with their instructor(s) and academic advisor prior to the absence.
 
 Students seeking approval for an approved absence are responsible for notifying their instructor(s) at least two (2) weeks in advance of such absences. If the activity is at the beginning of the term or is the result of a particular level of achievement in an activity (i.e. qualifying for a post season tournament in athletics), students should notify their instructor(s) as soon as possible. Instructors are expected to make reasonable accommodations for these class absences including administration of make-up assignments and exams whenever possible. Please note, however, that the requirements of some courses or programs may preclude such accommodations.
 It is expected that students seeking an excused absence will work with their instructor(s) to develop a plan and timetable to make up the missed coursework.
 
-### **Other Absences**
+### Other Absences
 
 Unforeseen events or circumstances may occur that cause a student to be absent from class. These could include personal or family illness, bereavement, accident, or a catastrophic event such as fire. If such issues arise, students are encouraged to notify their instructors as soon as possible to explain their absence from class. In doing so, students should review the syllabi for their courses with particular attention given to the instructor's statements on course attendance and/or absences. Jointly, the student and instructor will develop a plan, with a timetable, to make up missed coursework. Instructors are expected to make reasonable accommodations for these class absences including administration of make-up assignments and exams whenever possible.
 
 If an instructor is concerned that a student is providing false information regarding the reasons for their absence from class, the matter should be referred to the Dean or Dean’s designee for additional inquiry. Providing false information regarding the reasons for a course absence may be a violation of the Student Code of Conduct and result in disciplinary action, as appropriate.
 
-### **Religious Observances**
+### Religious Observances
 
 Students should review the Religious Observances Statement in the event they are seeking an [excused absence for a religious observance](https://drexel.edu/provost/policies-calendars/policies/religious-observances/)
 
-### **Extended Absences**
+### Extended Absences
 
 In the event of extended absence where several classes have been missed, students should explore options other than those described above, such as requesting an Incomplete grade (please reference the [Incomplete Grades Policy](https://drexel.edu/provost/policies-calendars/policies/incomplete_grades/)) or withdrawal (please reference the [Course Withdrawal Policy](https://drexel.edu/provost/policies-calendars/policies/course-withdrawal/)). It is strongly recommended that students consult with their academic advisor to determine the best course of action given the circumstances, academic progression, and goals.
 
@@ -281,7 +281,7 @@ In the event of an extended absence due to a chronic medical condition or disabi
 
 ---
 
-## **Prof. Agar's Attendance Policy**
+## Prof. Agar's Attendance Policy
 
 Prof. Agar will approve absences associated with any physical or mental health requests, family emergency, religious request, or any other reasonable requests. Note that it is not a requirement that you disclose any specific details regarding your reason for requesting absenteeism. The requirement is that you specify, for instance, that the request is health or religion related. You should not feel the need to disclose the nature of your health issue or your religious affiliation. If absence is requested for an extended period of time a letter from a external professional representative (e.g., a doctor, a clergy member) might be requested. This letter should merely state the dates when you will be absence and the categorical reason for your absence (e.g., religious).
 
