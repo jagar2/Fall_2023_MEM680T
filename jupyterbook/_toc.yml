@@ -10,3 +10,9 @@ parts:
     chapters:
       - file: course_materials/syllabus
         title: Syllabus
+      - file: course_materials/final_project
+        title: "Final Project"
+  - caption: "Pre-Course Materials"
+    chapters:
+      - file: preclass_survey/preclass_survey
+        title: "Pre-class Survey"
