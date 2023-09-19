@@ -3,7 +3,10 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+options:
+  numbered: true
+parts:
+  - caption: "Course Content \U0001F4DC"
+    chapters:
+      - file: course_materials/syllabus
+        title: Syllabus
