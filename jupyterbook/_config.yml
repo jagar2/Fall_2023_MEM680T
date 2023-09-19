@@ -30,6 +30,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+  extra_css:
+    - custom.css  # Replace with the path to your custom CSS if different
 
 # Adds colab button to book
 launch_buttons:

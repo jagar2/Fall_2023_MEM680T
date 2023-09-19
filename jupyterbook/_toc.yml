@@ -16,3 +16,6 @@ parts:
     chapters:
       - file: preclass_survey/preclass_survey
         title: "Pre-class Survey"
+  - caption: "Additional Resources"
+    chapters:
+      -file: resources/markdown
