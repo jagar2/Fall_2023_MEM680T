@@ -16,6 +16,11 @@ parts:
     chapters:
       - file: preclass_survey/preclass_survey
         title: "Pre-class Survey"
+  - caption: "📝 Homework"
+    chapters:
+      sections:
+        - file: homework/homework_1/homework_1_whitepaper
+          title: "1️⃣ Project Whitepaper"
   - caption: "Additional Resources"
     chapters:
-      -file: resources/markdown
+      - file: resources/markdown

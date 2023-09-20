@@ -238,7 +238,7 @@ The final exam is comprehensive and will be given during the University assigned
 
 ## Final Project
 
-The capstone of this course is a final project and presentation. This project is your opportunity to apply the various methodologies and tools covered in the course to a problem that intrigues you. If you have datasets and analysis tasks from your current or previous research or employment, those would be ideal for this project. For those without a dataset, a variety of open-source options are available. More details can be found on the {doc}`Final Project <./Final_project>`.
+The capstone of this course is a final project and presentation. This project is your opportunity to apply the various methodologies and tools covered in the course to a problem that intrigues you. If you have datasets and analysis tasks from your current or previous research or employment, those would be ideal for this project. For those without a dataset, a variety of open-source options are available. More details can be found on the {doc}`Final Project <./course_materials/final_project>`.
 
 ---
 

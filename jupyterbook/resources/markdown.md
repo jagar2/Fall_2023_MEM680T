@@ -46,6 +46,6 @@ Here is a quick guide to get you started with Markdown:
     def hello_world():
         print("Hello, world!")
     ```
-    ```
+
 
 For an in-depth guide, you can visit this [Markdown Guide](https://www.markdownguide.org/). It provides a comprehensive set of examples and additional features supported by Markdown, such as tables, footnotes, and task lists.
