@@ -1,4 +1,6 @@
 jupyter-book
 matplotlib
 numpy
-rise
+jupyterlab-rise
+
+jupyter_contrib_nbextensions
