@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+options:
+  numbered: true
+parts:
+  - caption: "Course Content \U0001F4DC"
+    chapters:
+      - file: course_materials/syllabus
+        title: Syllabus
+      - file: course_materials/final_project
+        title: "Final Project"
+  - caption: "Pre-Course Materials"
+    chapters:
+      - file: preclass_survey/preclass_survey
+        title: "Pre-class Survey"
+  - caption: "📝 Homework"
+    chapters:
+      - file: homework/homework
+        title:  "📝 Assignments"
+        sections:
+          - file: homework/homework_1/homework_1_whitepaper
+            title: "1️⃣ Project Whitepaper"
+  - caption: "Additional Resources"
+    chapters:
+      - file: resources/markdown
